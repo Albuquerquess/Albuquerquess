@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @Albuquerquess.
-- 👀 I’m interested in solve normal people problems.
-- 🌱 I’m currently learning LGPD.
-- 💞️ I’m looking to collaborate on Ceará Federal Institute of Education, Science and Technology.
-- 📫 How to reach me @albuquerquedev | contato.albuquerquedev.com.br | https://wa.me/message/EVJPT6VSSMRPD1
+Olá 👋
 
-<!---
-Albuquerquess/Albuquerquess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Sou Desenvolvedor de sistemas web, autodidata e incansável aprendiz busca atuação em um ambiente dinâmico, que proporcione crescimento e perspectiva de carreira para aplicar conhecimentos adquiridos e desenvolver novas habilidades.
+
+                  - Lógica ; JavaScript ; Typescript ; Git ; Node.js ; MySQL ; Python.
+                  - HTML ; CSS ; SASS; REACT ; REACT NATIVE ; EJS
+                  - INFRAESTRUTURA AWS
+                     
+PROJETOS:
+	
+                 
+                  
+
+				 - [DELIRATRIX - LOJA](https://deliratrix.com.br/) (+18)
+				 - [Rehab - Cuidado e conforto (rehabfisioterapia.com)](https://www.rehabfisioterapia.com/)
+
+                  
+  Metodologia de design de software **DDD + SOLID**
+
+Freelancer Nodejs / Reactjs **(ambos Typescript )**
+
+Prestação de serviços de programação, atendendo o prazo de 40 dias para a entrega da demanda.
+                  
+<br/><a href="https://www.linkedin.com/in/albuquerquedeveloper/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="rails" width="40" height="40" style="max-width: 100%;"></img>
+</a>
