@@ -6,6 +6,8 @@
   </a>
 </div>
 
+- [Work in NTTData](https://www.linkedin.com/company/nttdata/mycompany/verification/);
+
 Sou desenvolvedor de sistemas web 😁, autodidata 📚 e incansável aprendiz que busca atuação em um ambiente dinâmico, que proporcione crescimento e perspectiva de carreira para aplicar conhecimentos adquiridos e desenvolver novas habilidades🚀.
   - Lógica ; JavaScript ; Typescript ; Git ; Node.js ; MySQL ; Python.
   - HTML ; CSS ; SASS; REACT ; REACT NATIVE ; EJS
