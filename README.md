@@ -9,15 +9,15 @@
 Sou desenvolvedor de sistemas web 😁, autodidata 📚 e incansável aprendiz que busca atuação em um ambiente dinâmico, que proporcione crescimento e perspectiva de carreira para aplicar conhecimentos adquiridos e desenvolver novas habilidades🚀.
   - Lógica ; JavaScript ; Typescript ; Git ; Node.js ; MySQL ; Python.
   - HTML ; CSS ; SASS; REACT ; REACT NATIVE ; EJS
-  - INFRAESTRUTURA AWS
+  - Docker ; AWS ; Terraform
 
-## PROJETOS:
-- [DELIRATRIX - LOJA](https://deliratrix.com.br/) 🔞&nbsp;
-- [Rehab - Cuidado e conforto (rehabfisioterapia.com)](https://www.rehabfisioterapia.com)🧓👵
+## PRINCIPAIS REPOSITÓRIOS:
+- [JN Moveis planejados - Orçamento Express - Frontend](https://github.com/Albuquerquess/JN-WEB/tree/develop);
+- [JN Moveis planejados - Orçamento Express - Backend](https://github.com/Albuquerquess/JN-Moveis-Orcamento-Express-Backend/tree/develop);
+- [JN Moveis planejados - Orçamento Express - Infra (terraform)](https://github.com/Albuquerquess/jn-infra/tree/develop);
+- [JN Moveis planejados - Orçamento Express - DBA](https://github.com/Albuquerquess/jn-dba/tree/develop);
   
 Metodologia de design de software **DDD + SOLID**
-
-Freelancer Nodejs / Reactjs **(ambos Typescript )**
 
 **Prestação de serviços de programação, atendendo o prazo de 40 dias para a entrega da demanda.**
 
